@@ -44,8 +44,8 @@ A web-based Student Management System developed using Spring MVC that allows man
 **Rudresh Narayan More**
 
 
-Demo Video:
-https://github.com/RudreshMore/student-management-system-spring-mvc/issues/1
+## 🎥 Project Demo Video
+▶️ Watch here: https: https://github.com/RudreshMore/student-management-system-spring-mvc/issues/1
 
 
 
